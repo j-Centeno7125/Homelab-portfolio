@@ -21,4 +21,4 @@ The goal of this repository is to demonstrate my troubleshooting methodology and
 *   [Runbook: Fixing Docker-to-Host Firewall Conflicts](./runbooks/ufw-docker-fix.md)
 *   [Runbook: Resolving DNS Timeout Issues](./runbooks/dns-troubleshooting.md)
 *   [Runbook: Tailscale remote access issue](./runbooks/tailscale-remote-access.md)
-*   [Architecture Diagram](./diagrams/homelab-architecture.png) 
+*   [Architecture Diagram](Headless Debian server.png) 
